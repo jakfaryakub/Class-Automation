@@ -1,0 +1,1 @@
+{"uuid":"cca1437b-e20d-418d-a067-b6017b1deaf2","name":"TugasAutomationYopMail.BaseWebTest.tearDown","description":"","start":1655203767705,"stop":1655203768448,"children":["1c92268f-8c26-403b-846b-f1bbf85a5e81"],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","start":1655203767706,"stop":1655203768448}]}

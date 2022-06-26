@@ -1,0 +1,1 @@
+{"uuid":"f9376952-1823-41a0-be10-91efdf2e6847","name":"TugasAutomationYopMail.BaseWebTest.setUp","description":"","start":1655979972802,"stop":1655979979791,"children":["500c0724-4032-4533-9014-39fee52d0c86"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","start":1655979972802,"stop":1655979979789}]}
